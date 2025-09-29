@@ -1,16 +1,16 @@
-## Hi there 👋
-
-<!--
-**valu28d/valu28d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi there, this is Valentina Falconi
+# Mi sitio personal
+Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis proyectos y mis intereses.
+## Contenido
+* [Información personal]
+* [Proyectos]
+* [Intereses]
+## Información personal
+* Nombre: Valentina Falconi
+* Ocupación: Estudiante de Ingeniería en Computación
+* Lugar de residencia: Guayaquil, Ecuador
+  
+## Intereses
+* Inteligencia artificial
+* Machine learning
+* UX design
