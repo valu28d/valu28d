@@ -15,7 +15,7 @@ I'm a highly motivated **5th-semester Computer Engineering student at ESPOL**.  
 
 ---
 
-## My Toolkit (Tech Stack)
+## My Toolkit
 
 ### Languages & Databases
 
