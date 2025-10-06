@@ -46,7 +46,7 @@ I'm a highly motivated **5th-semester Computer Engineering student at ESPOL**.  
 > This project involves the design and implementation of a relational database system aimed at Endangered Species Conservation. Its core function is to monitor, register, and analyze data on species, sightings, and threats, thereby supporting informed decision-making for conservation efforts.
 
 * **Key Technologies:** SQL, MySQL.
-* **Repository:** **https://github.com/valu28d/ProyectoSQL_G4.git**
+* **Repository:** https://github.com/valu28d/ProyectoSQL_G4.git
 
 ### 3. Inventory System Database for Belphone
 
