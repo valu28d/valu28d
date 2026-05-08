@@ -41,7 +41,7 @@ I'm a highly motivated **5th-semester Computer Engineering student at ESPOL**.  
 
 * **Key Technologies:** HTML, CSS, JavaScript.
 
-### 2. Endangered Species Monitoring Database (Proyecto Integrador)
+### 2. Endangered Species Monitoring Database
 
 > This project involves the design and implementation of a relational database system aimed at Endangered Species Conservation. Its core function is to monitor, register, and analyze data on species, sightings, and threats, thereby supporting informed decision-making for conservation efforts.
 
